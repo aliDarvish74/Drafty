@@ -1,0 +1,44 @@
+.vmsDelay {
+  width: 90%;
+  margin: 5% auto;
+  font-family: "Montserrat Alternates", "Vazirmatn", sans-serif;
+}
+.vmsDelay h2,
+p {
+  direction: rtl;
+  text-align: center;
+}
+.vmsDelay h2 {
+  font-size: 20px;
+}
+.vmsDelay button {
+  background: rgb(255, 0, 200);
+  border: none;
+  color: #fff;
+  height: 25px;
+  position: relative;
+  top: -26px;
+  left: 210px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.vmsDelay button:hover {
+  background: rgb(150, 0, 150);
+  cursor: pointer;
+  transition: 0.3s;
+}
+.vmsDelay p {
+  max-width: 50%;
+  margin: 0 auto;
+  font-size: 16px;
+  background: rgb(220, 220, 220);
+  border-radius: 10px;
+  position: relative;
+}
+.vmsDelay input {
+  font-family: "Montserrat Alternates", "Vazirmatn", sans-serif;
+  border: 1px dashed rgb(200, 200, 200);
+  font-size: 11px;
+  width: 17%;
+  text-align: center;
+}
